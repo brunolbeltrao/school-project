@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: uncle
+school:
+  school:
+    name: school
