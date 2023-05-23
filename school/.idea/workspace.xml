@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="61e95a18-064f-4cea-8acc-80708275580a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../school-api-gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../school-api-gateway/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../school-service-discovery/src/main/java/com/example/demo/EurekaServerApplication.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../java/apache-maven-3.9.1" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="C:\java\apache-maven-3.9.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FGBEA3wwPj5i4BVBwIafDBnTG4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/git/vivo/src-blueplanet-inventory-import",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "spring.configuration.checksum": "b95a7a58de22d4b4cb9d5edabe8467bc"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.unclefood.service.OrderService" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\git\school-project\school-oauth\src\main\java\entities" />
+      <recent name="C:\git\school-project\school-oauth\src\main\resources" />
+      <recent name="C:\git\school-project\school-user\src\main\resources" />
+      <recent name="C:\git\mysqlcon\school\src\test\java" />
+      <recent name="C:\git\mysqlcon\school\src\main\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.unclefood.controller" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="br.com.school.hexagono.domain" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.schooloauth.config" />
+      <recent name="com.example.schooluser.entities" />
+      <recent name="com.example.unclefood.repository" />
+      <recent name="com.example.unclefood.hexagon.adapter" />
+      <recent name="com.example.unclefood.proxy" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+        <option value="MavenRunConfiguration" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EurekaServerApplication (1)">
+    <configuration name="SchoolApplication" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="br.com.school.SchoolApplication" />
+      <module name="school-main-school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.school.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name=" school 8001" type="JUnit" factoryName="JUnit" singleton="false">
+      <module name="school-main-school" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea -" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in school 8081" type="JUnit" factoryName="JUnit" singleton="false">
+      <module name="school-main-school" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea -Dserver.port=8081" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in school 8082" type="JUnit" factoryName="JUnit" singleton="false">
+      <module name="school-main-school" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea -Dserver.port=8082" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourseTest.validEnrollFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="school-main-school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.school.hexagono.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.school.hexagono.domain" />
+      <option name="MAIN_CLASS_NAME" value="br.com.school.hexagono.domain.CourseTest" />
+      <option name="METHOD_NAME" value="validEnrollFalse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentTest.validEnrollFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="school-main-school" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.school.hexagono.domain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="br.com.school.hexagono.domain" />
+      <option name="MAIN_CLASS_NAME" value="br.com.school.hexagono.domain.StudentTest" />
+      <option name="METHOD_NAME" value="validEnrollFalse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UncleFoodApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="school-uncle-food" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.unclefood.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.unclefood" />
+      <option name="MAIN_CLASS_NAME" value="com.example.unclefood.UncleFoodApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="school-main-school" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="school-main-school" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.EurekaServerApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="school-service-discovery" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="school-api-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.schoolapigateway.SchoolApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolApplication 8082" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <option name="ACTIVE_PROFILES" />
+      <module name="school-main-school" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.school.SchoolApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8082" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.school.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <option name="ACTIVE_PROFILES" />
+      <module name="school-main-school" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="br.com.school.SchoolApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="br.com.school.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolConfigServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="school-config-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.schoolconfigserver.SchoolConfigServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolOauthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="school-oauth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.schooloauth.SchoolOauthApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="school-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.schooluser.SchoolUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UncleFoodApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="uncle-food" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.unclefood.UncleFoodApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UncleFoodApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="school-uncle-food" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.unclefood.UncleFoodApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SchoolApplication" />
+      <item itemvalue="JUnit. school 8001" />
+      <item itemvalue="JUnit.All in school 8081" />
+      <item itemvalue="JUnit.All in school 8082" />
+      <item itemvalue="JUnit.CourseTest.validEnrollFalse" />
+      <item itemvalue="JUnit.StudentTest.validEnrollFalse" />
+      <item itemvalue="JUnit.UncleFoodApplicationTests" />
+      <item itemvalue="Spring Boot.SchoolOauthApplication" />
+      <item itemvalue="Spring Boot.SchoolUserApplication" />
+      <item itemvalue="Spring Boot.UncleFoodApplication (1)" />
+      <item itemvalue="Spring Boot.SchoolApiGatewayApplication" />
+      <item itemvalue="Spring Boot.SchoolApplication" />
+      <item itemvalue="Spring Boot.SchoolConfigServerApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.SchoolApplication 8082" />
+      <item itemvalue="Spring Boot.UncleFoodApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.EurekaServerApplication (1)" />
+        <item itemvalue="JUnit.UncleFoodApplicationTests" />
+        <item itemvalue="JUnit.StudentTest.validEnrollFalse" />
+        <item itemvalue="JUnit.CourseTest.validEnrollFalse" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringBeansView">
+    <option name="beanDetailsProportion" value="0.3" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="61e95a18-064f-4cea-8acc-80708275580a" name="Changes" comment="" />
+      <created>1664108429202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664108429202</updated>
+      <workItem from="1669743775865" duration="8118000" />
+      <workItem from="1672072630201" duration="750000" />
+      <workItem from="1674135499609" duration="2799000" />
+      <workItem from="1674306165042" duration="2441000" />
+      <workItem from="1678454831234" duration="3795000" />
+      <workItem from="1679685454382" duration="262000" />
+      <workItem from="1682511230843" duration="5168000" />
+      <workItem from="1682519176388" duration="422000" />
+      <workItem from="1682520093672" duration="17849000" />
+      <workItem from="1682616432699" duration="43584000" />
+      <workItem from="1683237152139" duration="208000" />
+      <workItem from="1683237430218" duration="79000" />
+      <workItem from="1683237568245" duration="17713000" />
+      <workItem from="1683811467335" duration="598000" />
+      <workItem from="1684067487310" duration="14216000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/school/controller/dto/CourseDTO.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/school/hexagono/service/CourseService.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/school/hexagono/service/CourseService.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/school/controller/dto/CourseDTO.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/school/controller/dto/CourseDTO.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/school/hexagono/service/StudentService.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/school/hexagono/service/StudentService.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/school/hexagono/adapter/CourseRepositoryAdapter.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/school/hexagono/adapter/CourseRepositoryAdapter.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/school/hexagono/service/CourseService.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/school/hexagono/service/CourseService.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/school/hexagono/adapter/StudentRepositoryAdapter.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/school/controller/StudentController.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/br/com/school/hexagono/service/StudentService.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../school-uncle-food/src/main/java/com/example/unclefood/UncleFoodApplication.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../school-uncle-food/src/main/java/com/example/unclefood/service/OrderService.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../school-user/src/main/java/com/example/schooluser/resources/UserResources.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../school-oauth/src/main/java/com/example/schooloauth/resources/OAuthResource.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../school-user/src/main/java/com/example/schooluser/resources/UserResources.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="userRepositoy.findByEmail(email)" language="JAVA" />
+        <watch expression="ResponseEntity(userRepositoy.findByEmail(email), HttpStatus.OK)" language="JAVA" />
+        <watch expression="ResponseEntity.ok(obj)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/school$SchoolApplication.ic" NAME="SchoolApplication Coverage Results" MODIFIED="1665416476605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>br.com.school.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/school$EurekaServerApplication.ic" NAME="EurekaServerApplication Coverage Results" MODIFIED="1682515245841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

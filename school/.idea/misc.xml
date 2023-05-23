@@ -4,13 +4,15 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../eureka/pom.xml" />
         <option value="$PROJECT_DIR$/../uncle-food/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/../school-api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../school-config-server/pom.xml" />
         <option value="$PROJECT_DIR$/../school-service-discovery/pom.xml" />
         <option value="$PROJECT_DIR$/../school-uncle-food/pom.xml" />
-        <option value="$PROJECT_DIR$/../school-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../school-user/pom.xml" />
+        <option value="$PROJECT_DIR$/../school-oauth/pom.xml" />
       </list>
     </option>
   </component>

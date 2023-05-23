@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    gateway:
+      default-filters:
+        - RemoveRequestHeader=Cookie
+        - RemoveRequestHeader=Set-Cookie

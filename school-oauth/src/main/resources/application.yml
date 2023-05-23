@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: school-oauth
+school:
+  school:
+    name: school
